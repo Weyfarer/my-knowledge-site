@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>我的知识库</title>
+      <link>https://localhost:8080</link>
+      <description>最近的10条笔记 on 我的知识库</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>README</title>
+    <link>https://localhost:8080/README</link>
+    <guid>https://localhost:8080/README</guid>
+    <description><![CDATA[ 我的知识库（Obsidian Vault） 本地 Markdown 知识库，Git + GitHub 私有仓库同步，Quartz 生成对外文档站。 快速开始 安装 Obsidian（Windows 下载安装即可） 「打开文件夹作为库」→ 选择本目录 vault 首次打开后按提示信任并启用社区插件（pre-installed 插件列表在「设置 → 第三方插件」中启用） 按 知识库指南.md 开始记录 目录 00-收件箱 … 90-模板：见 知识库指南.md .obsidian/：Obsidian 配置（Git 管理，注意插件本体不入库，用插件市场安装） 同步机制 本仓库自动每 10 分钟 com... ]]></description>
+    <pubDate>Sat, 22 Aug 2026 07:42:48 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://localhost:8080/</link>
+    <guid>https://localhost:8080/</guid>
+    <description><![CDATA[ 知识库首页与导航 ]]></description>
+    <pubDate>Sat, 22 Aug 2026 07:42:48 GMT</pubDate>
+  </item><item>
+    <title>知识库指南</title>
+    <link>https://localhost:8080/%E7%9F%A5%E8%AF%86%E5%BA%93%E6%8C%87%E5%8D%97</link>
+    <guid>https://localhost:8080/%E7%9F%A5%E8%AF%86%E5%BA%93%E6%8C%87%E5%8D%97</guid>
+    <description><![CDATA[ 知识库指南 这里是整个知识库的入口与使用约定。新朋友（未来的你）从这篇开始。 目录结构 目录用途00-收件箱快速记录，所有新笔记默认落在这里；定期清空归档10-项目进行中的项目、研发/技术文档（一个项目一个子目录）20-领域长期主题知识（主战场），按领域建子目录，双链/标签组织30-日常每日笔记（Ctrl+P → 打开今日笔记）40-文献摘录、剪藏、读书笔记90-模板Obsidian 笔记模板（插入模板：Ctrl+P → 模板：插入模板）attachments所有图片/附件统一存放，避免散落 工作流（Captur → Organize → Distill） 捕获：随手记 → 默认进 00-收件... ]]></description>
+    <pubDate>Sat, 22 Aug 2026 07:42:48 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
